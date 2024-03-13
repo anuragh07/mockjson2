@@ -1,0 +1,61 @@
+{
+    "abhi@gmail.com": {
+        "firstname": "Abhishek",
+        "lastname": "Verma",
+        "mobile":  "9012345678",
+        "age": 25,
+        "city": "Delhi"
+    },
+    "babu@gmail.com":{
+        "firstname": "Babu",
+        "lastname": "Annam",
+        "mobile":  "1012345678",
+        "age": 20,
+        "city": "Hyderabad"
+    },
+    "chitra@gmail.com": {
+        "firstname": "Chitra",
+        "lastname": "Kumar",
+        "mobile":  "2012345678",
+        "age": 22,
+        "city": "Banglore"
+    },
+    "abcd@gmail.com":{
+        "firstname": "abcd",
+        "lastname": "klfhs",
+        "mobile":  "3012345678",
+        "age": 27,
+        "city": "Chennai"
+    },
+    "deepa@gmail.com":{
+        "firstname": "Deepa",
+        "lastname": "Verma",
+        "mobile":  "78945612312",
+        "age": 27,
+        "city": "Chennai"
+
+    },
+     "koushik@gmail.com":{
+        "firstname": "Koushik",
+        "lastname": "Kumar",
+        "mobile":  "98765432112",
+        "age": 20,
+        "city": "Hyderabad"
+
+    },
+     "aaron@gmail.com":{
+        "firstname": "Aaron",
+        "lastname": "Richards",
+        "mobile":  "74196385245",
+        "age": 21,
+        "city": "Hyderabad"
+    },
+     "cathy@gmail.com":{
+        "firstname": "Cathy",
+        "lastname": "Susan",
+        "mobile":  "9437684210",
+        "age": 20,
+        "city": "Banglore"
+    }
+        
+}
